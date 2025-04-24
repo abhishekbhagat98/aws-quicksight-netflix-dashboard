@@ -2,6 +2,12 @@
 
 This project showcases how I used **Amazon QuickSight** to analyze a Netflix dataset and generate visual dashboards. The dataset was stored in Amazon S3 and connected to QuickSight using a `manifest.json` configuration.
 
+## 🔁 Data Flow Diagram
+
+Below is the high-level architecture of this project:
+
+![Data Flow](./data-flow-quicksight-dashboard.png)
+
 ## 🚀 What I Did
 
 - Uploaded a dataset (`netflix_titles.csv`) and a `manifest.json` file to an **Amazon S3** bucket.

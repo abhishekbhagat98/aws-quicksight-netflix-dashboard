@@ -20,4 +20,4 @@ This project showcases how I used **Amazon QuickSight** to analyze a Netflix dat
 
 Full walkthrough available here:
 
-[📄 Visualize Data with Amazon QuickSight.pdf](./Visualize%20Data%20with%20Amazon%20QuickSight.pdf)
+[📄 Visualize Data with QuickSight.pdf](./Visualize%20Data%20with%20QuickSight.pdf)
